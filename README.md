@@ -8,7 +8,7 @@
 ## 遊び方
 下記リンクからプレイすることができます. 効果音が鳴る箇所があるのでご注意ください.
 
-[プレイする](https://kitao.github.io/pyxel/wasm/launcher/?play=rococomico.ACCELERATE.game.game&Gamepad=enabled)
+[プレイする](https://kitao.github.io/pyxel/wasm/launcher/?play=rococomico.ACCELERATE.game.game&gamepad=enabled)
 
 ## 操作方法
 * 左へ移動: `Left` / `A`
